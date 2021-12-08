@@ -1,0 +1,10 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\bin\Debug\ch12_온라인시험문제.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\bin\Debug\ch12_온라인시험문제.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\bin\Debug\ch12_온라인시험문제.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.Properties.Resources.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.csproj.GenerateResource.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch12_온라인시험문제\ch12_온라인시험문제\obj\Debug\ch12_온라인시험문제.랜덤시험문제.resources
