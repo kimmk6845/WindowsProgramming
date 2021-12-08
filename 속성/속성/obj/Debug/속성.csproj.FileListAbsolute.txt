@@ -1,0 +1,7 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\bin\Debug\속성.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\bin\Debug\속성.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\bin\Debug\속성.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\obj\Debug\속성.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\obj\Debug\속성.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\obj\Debug\속성.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\속성\속성\obj\Debug\속성.pdb
