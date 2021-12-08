@@ -1,0 +1,14 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\bin\Debug\ch1.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\bin\Debug\ch1.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\bin\Debug\ch1.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\obj\Debug\ch1.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\obj\Debug\ch1.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\obj\Debug\ch1.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk014\ch1\ch1\obj\Debug\ch1.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\bin\Debug\ch1.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\bin\Debug\ch1.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\bin\Debug\ch1.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\obj\Debug\ch1.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\obj\Debug\ch1.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\obj\Debug\ch1.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch1\ch1\obj\Debug\ch1.pdb
