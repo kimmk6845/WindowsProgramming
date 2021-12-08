@@ -1,0 +1,10 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\bin\Debug\kmk_가위바위보.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\bin\Debug\kmk_가위바위보.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\bin\Debug\kmk_가위바위보.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.kmk_가위바위보.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.Properties.Resources.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.csproj.GenerateResource.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\kmk_가위바위보\kmk_가위바위보\obj\Debug\kmk_가위바위보.pdb
