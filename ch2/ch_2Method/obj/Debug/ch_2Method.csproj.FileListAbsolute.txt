@@ -1,0 +1,7 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\bin\Debug\ch_2Method.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\bin\Debug\ch_2Method.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\bin\Debug\ch_2Method.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\obj\Debug\ch_2Method.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\obj\Debug\ch_2Method.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\obj\Debug\ch_2Method.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch_2Method\ch_2Method\obj\Debug\ch_2Method.pdb
