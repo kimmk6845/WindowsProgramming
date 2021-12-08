@@ -1,0 +1,10 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.Form1.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.Properties.Resources.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.csproj.GenerateResource.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\bin\Debug\ch9_Console_WinForm.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\bin\Debug\ch9_Console_WinForm.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\bin\Debug\ch9_Console_WinForm.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch9_Console_WinForm\ch9_Console_WinForm\obj\Debug\ch9_Console_WinForm.pdb
