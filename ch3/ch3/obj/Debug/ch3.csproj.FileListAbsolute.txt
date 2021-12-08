@@ -1,0 +1,7 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\bin\Debug\ch3.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\bin\Debug\ch3.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\bin\Debug\ch3.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\obj\Debug\ch3.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\obj\Debug\ch3.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\obj\Debug\ch3.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch3\ch3\obj\Debug\ch3.pdb
