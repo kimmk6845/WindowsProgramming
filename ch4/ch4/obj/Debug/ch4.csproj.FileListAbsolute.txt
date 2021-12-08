@@ -1,0 +1,7 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\bin\Debug\ch4.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\bin\Debug\ch4.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\bin\Debug\ch4.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\obj\Debug\ch4.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\obj\Debug\ch4.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\obj\Debug\ch4.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch4\ch4\obj\Debug\ch4.pdb
