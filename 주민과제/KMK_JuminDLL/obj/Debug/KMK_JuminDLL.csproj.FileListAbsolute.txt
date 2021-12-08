@@ -1,0 +1,6 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\bin\Debug\KMK_JuminDLL.dll
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\bin\Debug\KMK_JuminDLL.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\obj\Debug\KMK_JuminDLL.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\obj\Debug\KMK_JuminDLL.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\obj\Debug\KMK_JuminDLL.dll
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\주민과제\KMK_JuminDLL\obj\Debug\KMK_JuminDLL.pdb
