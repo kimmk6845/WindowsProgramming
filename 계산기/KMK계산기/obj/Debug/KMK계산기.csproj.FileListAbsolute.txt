@@ -1,0 +1,10 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\bin\Debug\KMK계산기.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\bin\Debug\KMK계산기.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\bin\Debug\KMK계산기.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.KMK계산기.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.Properties.Resources.resources
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.csproj.GenerateResource.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\KMK계산기\KMK계산기\obj\Debug\KMK계산기.pdb
