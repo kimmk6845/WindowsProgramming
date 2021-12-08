@@ -1,0 +1,7 @@
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\bin\Debug\ch5.exe.config
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\bin\Debug\ch5.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\bin\Debug\ch5.pdb
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\obj\Debug\ch5.csprojAssemblyReference.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\obj\Debug\ch5.csproj.CoreCompileInputs.cache
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\obj\Debug\ch5.exe
+C:\Users\rlaal\OneDrive\바탕 화면\윈도우즈\kmk414\ch5\ch5\obj\Debug\ch5.pdb
